@@ -1,0 +1,19 @@
+{
+    "home_screen": "Home Screen",
+    "list_screen": "List Screen",
+    "reset": "reset",
+    "something_went_wrong": "Something went wrong",
+    "gryffindor": "Gryffindor",
+    "slytherin": "Slytherin",
+    "ravenclaw": "Ravenclaw",
+    "hufflepuff": "Hufflepuff",
+    "no_guessed_characters_found": "No Guessed Characters Found",
+    "search_character": "Search Character",
+    "access_denied": "Access Denied",
+    "home": "Home",
+    "list": "List",
+    "not_in_house": "Not in House",
+    "total": "Total",
+    "success": "Success",
+    "failed": "Failed"
+}
